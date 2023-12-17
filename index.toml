@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/Emily's Simpler Crafts/pack.mcmeta"
-hash = "96cbdb89b97352371cea8005ede628cd56adc7597d9660e37cafe09df9993e38"
+file = "LICENSE"
+hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "config/openloader/data/Leather Backpacks/data/backpacked/recipes/backpack.json"
