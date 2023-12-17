@@ -43,6 +43,16 @@ hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "2c7529609ad6edcb330bfa0d9b3a58f2504616d7807c4b6c3d209c19a545f7b9"
 metafile = true
