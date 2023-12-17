@@ -1,0 +1,13 @@
+name = "Villager Pickup"
+filename = "villager-pickup-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EL95Q1AM/versions/NKc7MlRL/villager-pickup-1.0.0.jar"
+hash-format = "sha1"
+hash = "aae33c95d8d0a2880e41089bbecdc9648cd15b10"
+
+[update]
+[update.modrinth]
+mod-id = "EL95Q1AM"
+version = "NKc7MlRL"
