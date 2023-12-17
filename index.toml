@@ -18,6 +18,10 @@ hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
+
+[[files]]
 file = "config/openloader/resources/toms-create-storage.pw.toml"
 hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
 metafile = true
@@ -29,7 +33,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
 metafile = true
 
 [[files]]
@@ -83,8 +87,8 @@ hash = "5c8ea25c304ea7d269abf6d95d3933c889c111ec33c865bc5031f2ea69aed617"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+file = "mods/create-fabric-sodium-fix.pw.toml"
+hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
 
 [[files]]
@@ -139,12 +143,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.pw.toml"
+hash = "5a2f2a09a70bd194f1da118ec9bf15ba143f3a4da309fe1865a90ce0a56d20e1"
 metafile = true
 
 [[files]]
@@ -158,8 +167,23 @@ hash = "c8d5810420301ff7cdcf1039d672ad7dfb01a77edf219f2f8d5e3689dd9624d6"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "3baa1c986d4cfc5f4ea2aebcce3d5cba5d1804256b712ffd427b892c8f5f7f1f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "50b48bf9a5cacb53cfcd772de645cf41fd9e0bd561c2d1732750cefa478394a2"
 metafile = true
 
 [[files]]
@@ -168,13 +192,23 @@ hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "c0d22ad84204a7d1e7c4db4a7459c5d6c3cf3a835fea87fe720ac566c976fba4"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
@@ -184,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "279b1d659f51d4df30fe741db66d22f8ca447ce30edc8e1b496b10a611143937"
+hash = "598f802d83d5b8b92cc3d5b008671e4b4120d7357884c5f77d32aa62f723681b"
 metafile = true
 
 [[files]]
@@ -195,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
 metafile = true
 
 [[files]]
@@ -225,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "d2f68bad5068b7dd0ff76db5943ac58368be7348a60ceb6e848dc61876c733e1"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
@@ -264,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
