@@ -47,6 +47,10 @@ file = "config/spiceoffabric.hjson"
 hash = "0db64e5f98bd123ccc0ce5653ff25652e6c747e0c4b243f18153943c13c5957c"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "dcf0f5f8d1ffceeb037c7c5397d3167ab6e22607c2b51a3617ab64b197fa3a32"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -109,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "371eb3f11d3ffaaff2e4e08467df82a99452ac7aec72dd9324152be3a6c17763"
 metafile = true
 
 [[files]]
