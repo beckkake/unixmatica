@@ -13,6 +13,22 @@ file = "config/openloader/data/Leather Backpacks/pack.mcmeta"
 hash = "bb685b2164c360187041aaf3d02b78604e967221763cc3a09028d257bd720215"
 
 [[files]]
+file = "config/openloader/data/VanillaTweaks_c783305_MC1.20-1.20.4.zip"
+hash = "f457e40b4ff25bb94d8b0251822fcc9e92595f2d5d358ab23bdfb3b19e75518e"
+
+[[files]]
+file = "config/openloader/data/anti creeper grief v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "d057e5822c104e28e073d28ef2dde3e69e3dd08dbfd980d0fd23158e46e54111"
+
+[[files]]
+file = "config/openloader/data/anti enderman grief v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "0687514df1f909d9caa45dae5226218378057f26c412a9b4e02104df2b6b0fea"
+
+[[files]]
+file = "config/openloader/data/anti ghast grief v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "9a59100f0589e74099c72c4c8c66e4eabc058f2d6c6600c55d2468b650cca8c5"
+
+[[files]]
 file = "config/openloader/data/create-simple-storage-recipes-datapack.pw.toml"
 hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
 metafile = true
@@ -25,6 +41,10 @@ hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
 file = "config/openloader/resources/toms-create-storage.pw.toml"
 hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
 metafile = true
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "0db64e5f98bd123ccc0ce5653ff25652e6c747e0c4b243f18153943c13c5957c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -44,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
@@ -74,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "54cb55e5f1e39a6b3409399db7d8258c68e8ee64926fa650fb3d74b5cbb9fe42"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -143,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
@@ -207,6 +237,11 @@ hash = "c0d22ad84204a7d1e7c4db4a7459c5d6c3cf3a835fea87fe720ac566c976fba4"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
@@ -267,8 +302,18 @@ hash = "d2f68bad5068b7dd0ff76db5943ac58368be7348a60ceb6e848dc61876c733e1"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d65613a8ae574869c9bb2406a9b7976e42a8c48d43958e6a52bcccf7a5a8c9ed"
 metafile = true
 
 [[files]]
@@ -284,6 +329,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
 metafile = true
 
 [[files]]
@@ -312,6 +367,11 @@ hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
@@ -332,6 +392,11 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "0c646f0afe29c67002f2f53fc34fa55e0221e8e412138c288ed9d163c02b2258"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -349,4 +414,54 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "b6084cee5cd569d8d6145d5690a312e319fbcfe92a9b4b8b665c99262811f179"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b9ffba892e9f541bbffc0fc9dc4360732e9edeb7d2d4560191fc08e457c9d372"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "5ba962b883a36141ce3e505486d07fd30e49412fbcf8b523a81e3bb1b59bb5ba"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "58de55cfb9a33cb71eb7a50a55d6fdd9cc970fd866e603ab5373c9c3087a6d84"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "da17fac1fbc09b0381656fbbdea25bcd651ad568aa8ad69e58d4362a60f16385"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "6253563e28616a16656b12762f897d6007ab19d27e7330030bf9c5af65e3941b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "2bb58b3921466f6f40b48830415c2e8b6bdacd3b126706ff141014004dad815f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "541635aaa48a5bfd27ab14ee5f760d35550a7d7f3083316feabeafc44c42b0bd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "717541277779ecae1980c5c62d1ad098c20d41a91e7d14927b86582e7e0914b1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
