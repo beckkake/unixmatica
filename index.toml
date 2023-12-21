@@ -324,6 +324,11 @@ hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "fd1861c2fbfac935ba6829d64dfa9ea73119fd73681446bca3468badfed5be4c"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d65613a8ae574869c9bb2406a9b7976e42a8c48d43958e6a52bcccf7a5a8c9ed"
 metafile = true
@@ -351,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "f3f813f6475844b7a80be440f357f0b965f692fc0e63d9382766e6c456c5de84"
 metafile = true
 
 [[files]]
