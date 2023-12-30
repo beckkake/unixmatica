@@ -6,7 +6,7 @@ hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "README.md"
-hash = "9cc82f866696335329ab8dcda08405fd23ad4fb3275263025139e59db33b4d77"
+hash = "0afaa97b023413f8bc5b9e9b8eaff44eae03aaa5d2e6c448593d62961de51557"
 
 [[files]]
 file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/asparagus_crop.json"
@@ -131,6 +131,10 @@ hash = "91ef30ea7a57b7561fa3473d9660d95828870e285433787548d570282acb5d36"
 [[files]]
 file = "config/openloader/data/Leather Backpacks/pack.mcmeta"
 hash = "bb685b2164c360187041aaf3d02b78604e967221763cc3a09028d257bd720215"
+
+[[files]]
+file = "config/openloader/data/afk display v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "ad338680e0c324f5dd30cd13607bf6c63bb7e25a926bb8fa67a67e0a1302417c"
 
 [[files]]
 file = "config/openloader/data/anti creeper grief v1.1.6 (MC 1.20-1.20.4).zip"
@@ -272,6 +276,16 @@ metafile = true
 [[files]]
 file = "mods/economical-villager-trading.pw.toml"
 hash = "7b209ea55390138dc17288bb904ce9da199b32b5e167fbc7320746bd3e40331e"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "676d4618afe1768b613e0aaea70adb95d27b55ee5f532e517da663528bdfb594"
 metafile = true
 
 [[files]]
@@ -552,6 +566,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "16533ac83d5cd1cb2708e080ad7996b22a595a7184a034516d46ad871776cd9b"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
 metafile = true
 
 [[files]]
