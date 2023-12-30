@@ -6,7 +6,7 @@ hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
 
 [[files]]
 file = "README.md"
-hash = "0366f1c4a4d6272417c0574000634d2a588c8f75a3622dc29eb1fbb4cb2b1781"
+hash = "9cc82f866696335329ab8dcda08405fd23ad4fb3275263025139e59db33b4d77"
 
 [[files]]
 file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/asparagus_crop.json"
@@ -133,10 +133,6 @@ file = "config/openloader/data/Leather Backpacks/pack.mcmeta"
 hash = "bb685b2164c360187041aaf3d02b78604e967221763cc3a09028d257bd720215"
 
 [[files]]
-file = "config/openloader/data/VanillaTweaks_c783305_MC1.20-1.20.4.zip"
-hash = "f457e40b4ff25bb94d8b0251822fcc9e92595f2d5d358ab23bdfb3b19e75518e"
-
-[[files]]
 file = "config/openloader/data/anti creeper grief v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "d057e5822c104e28e073d28ef2dde3e69e3dd08dbfd980d0fd23158e46e54111"
 
@@ -147,6 +143,10 @@ hash = "0687514df1f909d9caa45dae5226218378057f26c412a9b4e02104df2b6b0fea"
 [[files]]
 file = "config/openloader/data/anti ghast grief v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "9a59100f0589e74099c72c4c8c66e4eabc058f2d6c6600c55d2468b650cca8c5"
+
+[[files]]
+file = "config/openloader/data/craftable name tags v1.1.6 (MC 1.20-1.20.4).zip"
+hash = "4bed60d20e6115e3bc9dd17cbf88498dcbdcaad338f3c28f1f34d3abeba76364"
 
 [[files]]
 file = "config/openloader/data/create-simple-storage-recipes-datapack.pw.toml"
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "f65351f79286f2471e3f1954a92940649a7b106667eae8d314ce04c649e043b3"
 metafile = true
 
 [[files]]
@@ -325,8 +325,13 @@ hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
 metafile = true
 
 [[files]]
