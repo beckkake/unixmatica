@@ -270,11 +270,6 @@ hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
 
 [[files]]
-file = "mods/economical-villager-trading.pw.toml"
-hash = "7b209ea55390138dc17288bb904ce9da199b32b5e167fbc7320746bd3e40331e"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
@@ -482,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
-metafile = true
-
-[[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "fd1861c2fbfac935ba6829d64dfa9ea73119fd73681446bca3468badfed5be4c"
 metafile = true
 
 [[files]]
