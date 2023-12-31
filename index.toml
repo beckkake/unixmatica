@@ -25,6 +25,10 @@ file = "config/openloader/data/Craftable Name Tags/pack.mcmeta"
 hash = "26ba682d6343d05d7ef58ab91a984703555d4135ed94a0ca3e62ec3f9796cfc6"
 
 [[files]]
+file = "config/openloader/data/Create+Simple+Storage+Recipes+delta_fix.zip"
+hash = "c18815a48a443e8358dadf40f6f2875a19723e08c322bae525e94e5476f8f101"
+
+[[files]]
 file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/asparagus_crop.json"
 hash = "38678a0222d3b1b722388d55572f7d001565307fa512bebb0d19db6123cd6715"
 
@@ -147,10 +151,6 @@ hash = "91ef30ea7a57b7561fa3473d9660d95828870e285433787548d570282acb5d36"
 [[files]]
 file = "config/openloader/data/Leather Backpacks/pack.mcmeta"
 hash = "bb685b2164c360187041aaf3d02b78604e967221763cc3a09028d257bd720215"
-
-[[files]]
-file = "config/openloader/data/SimpleStorageRecipesbutbetter.zip"
-hash = "fb7ace09a197f1fff2503e7258d0c5a73900b7fb93953e0bccd342043694c74f"
 
 [[files]]
 file = "config/openloader/data/afk display v1.1.6 (MC 1.20-1.20.4).zip"
