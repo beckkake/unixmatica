@@ -149,6 +149,10 @@ file = "config/openloader/data/Leather Backpacks/pack.mcmeta"
 hash = "bb685b2164c360187041aaf3d02b78604e967221763cc3a09028d257bd720215"
 
 [[files]]
+file = "config/openloader/data/SimpleStorageRecipesbutbetter.zip"
+hash = "fb7ace09a197f1fff2503e7258d0c5a73900b7fb93953e0bccd342043694c74f"
+
+[[files]]
 file = "config/openloader/data/afk display v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "ad338680e0c324f5dd30cd13607bf6c63bb7e25a926bb8fa67a67e0a1302417c"
 
@@ -163,11 +167,6 @@ hash = "0687514df1f909d9caa45dae5226218378057f26c412a9b4e02104df2b6b0fea"
 [[files]]
 file = "config/openloader/data/anti ghast grief v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "9a59100f0589e74099c72c4c8c66e4eabc058f2d6c6600c55d2468b650cca8c5"
-
-[[files]]
-file = "config/openloader/data/create-simple-storage-recipes-datapack.pw.toml"
-hash = "986be95d8a759de996985e32fb313bad07a14346fb2f61c290f9fbffdc25884c"
-metafile = true
 
 [[files]]
 file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
