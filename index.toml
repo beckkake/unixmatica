@@ -25,6 +25,122 @@ file = "config/openloader/data/Craftable Name Tags/pack.mcmeta"
 hash = "26ba682d6343d05d7ef58ab91a984703555d4135ed94a0ca3e62ec3f9796cfc6"
 
 [[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/asparagus_crop.json"
+hash = "38678a0222d3b1b722388d55572f7d001565307fa512bebb0d19db6123cd6715"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/chili_pepper_crop.json"
+hash = "ecc3c464a216bca25feca53025061d77d986c570c6b13aefcdb41fdae004f317"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/cinnamon_sapling.json"
+hash = "6fd35f95bce0538f8cd7884f1c92d8e60b8e29b5b6d8ea336f83196db3df25cb"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/peanut_crop.json"
+hash = "60ffcddbe7478075a7bc5c0f962598b357edb4f324d987d4942a5a3318789b0d"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/expandeddelight/seasons/crop/sweet_potatoes_crop.json"
+hash = "ff16133a1b45813d9574d688e870c8f5d180370f1d8618486e0978c6a0733756"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/brown_mushroom_colony.json"
+hash = "84662119ed727ab653cb9a651c6e0fea548ab9649428ad2da8f9561b481587be"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/budding_tomatoes.json"
+hash = "0cc01b08399ea721d01881918eaeaeaf8e526f2af2da9e2f6897c220665b278f"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/cabbages.json"
+hash = "0b98501424e8d9cb638fd46cc1c3f1977f275d0be76ebb472bf2bbbe79fc983f"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/onions.json"
+hash = "c56edee9a839f720730c0a7a0098eceee290aed6e9c790d3907abb43221d66f9"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/red_mushroom_colony.json"
+hash = "13757632ceb00cbf3052cbd09840a3a538013176c3c8325039d7c54b6bbf5667"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/rice_crop.json"
+hash = "c55d62c0407efb1a15224ec50925c7c5848385342f7fc94240ce600f8bd81276"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/farmersdelight/seasons/crop/tomatoes.json"
+hash = "0cc01b08399ea721d01881918eaeaeaf8e526f2af2da9e2f6897c220665b278f"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/acacia_sapling.json"
+hash = "4239d66e34643d95aa6ce6589449a536072a242a896dcc08c045b8d094c33999"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/beetroots.json"
+hash = "58093a9c95f13d12c18957ca28ed66ada7dae9d8913cc3525e628742676d609a"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/birch_sapling.json"
+hash = "6acf457470ace39e22da1444d9c563e64c018a51ef31ebe424a690d34fee8de7"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/carrots.json"
+hash = "49245247e2e2a3e459c9d1cfd45646d3fbda52f2204aff53da445e05461a6d86"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/cocoa.json"
+hash = "6b795d4e78feb7d06873e1c322cbcc0764bfbceec77cc4ba245ef47e7c475065"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/dark_oak_sapling.json"
+hash = "6acf457470ace39e22da1444d9c563e64c018a51ef31ebe424a690d34fee8de7"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/jungle_sapling.json"
+hash = "5b13102bfff50126c3e97e391bd851c669df3ff3dbc87cef5ec31096333504ef"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/mangrove_propagule.json"
+hash = "5b13102bfff50126c3e97e391bd851c669df3ff3dbc87cef5ec31096333504ef"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/melon_stem.json"
+hash = "99bad6b7328faea9d89cff21bd56567465482f19759607e8f247a5ebf9786c1a"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/oak_sapling.json"
+hash = "6acf457470ace39e22da1444d9c563e64c018a51ef31ebe424a690d34fee8de7"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/potatoes.json"
+hash = "e79eebef6a157e62578645c9c74f1324f1f5ba635180f52667dace5d684723f3"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/pumpkin_stem.json"
+hash = "cfff9b5a944563929bf97c113cb5ec6ffbc6a7a4cae021a6aa432651d15ec079"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/spruce_sapling.json"
+hash = "5b13102bfff50126c3e97e391bd851c669df3ff3dbc87cef5ec31096333504ef"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/sweet_berry_bush.json"
+hash = "e0a499f3832c146fc6e06d6b0a0ff27484e5e418063e201fbb951fdbaa3c15ee"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/minecraft/seasons/crop/wheat.json"
+hash = "57debee80b07fc81005e655ef8fecf1c29a7581169da83cf11fb62efd31dd3c5"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/data/seasons/hardcoded/crop/default.json"
+hash = "49245247e2e2a3e459c9d1cfd45646d3fbda52f2204aff53da445e05461a6d86"
+
+[[files]]
+file = "config/openloader/data/Fabric Seasons Nerf/pack.mcmeta"
+hash = "a4f25c8530b262b8956321867494ed9d0d830ce1b4abe1f8e712de1ad6da98ae"
+
+[[files]]
 file = "config/openloader/data/Leather Backpacks/data/backpacked/recipes/backpack.json"
 hash = "91ef30ea7a57b7561fa3473d9660d95828870e285433787548d570282acb5d36"
 
