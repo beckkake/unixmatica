@@ -397,6 +397,11 @@ hash = "50b48bf9a5cacb53cfcd772de645cf41fd9e0bd561c2d1732750cefa478394a2"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
 metafile = true
@@ -574,11 +579,6 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "16533ac83d5cd1cb2708e080ad7996b22a595a7184a034516d46ad871776cd9b"
-metafile = true
-
-[[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "297fc8e0b3ebf787ccc881d00242dccb1b3930ba37268a5f51a02f14428bfedd"
 metafile = true
 
 [[files]]
