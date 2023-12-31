@@ -330,11 +330,6 @@ hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-extras.pw.toml"
-hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
 metafile = true
@@ -512,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "f3f813f6475844b7a80be440f357f0b965f692fc0e63d9382766e6c456c5de84"
 metafile = true
 
 [[files]]
