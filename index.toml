@@ -456,6 +456,11 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "2e3912527d112c1d10bb5329bd8b5b0d1a888c4fa1981c053bd1fde48d772bd0"
+metafile = true
+
+[[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
 metafile = true
@@ -563,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
