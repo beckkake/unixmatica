@@ -174,7 +174,7 @@ hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
 
 [[files]]
 file = "config/openloader/resources/stay-true.pw.toml"
-hash = "ba1b969c664e1365856a7b6a98485f524665fda5055f74006a9f0b7effd8b6c3"
+hash = "ef5a1c3a7660f172e929129c9c9ad672f9872c3be932c23f807a5fe32c22f86a"
 metafile = true
 
 [[files]]
