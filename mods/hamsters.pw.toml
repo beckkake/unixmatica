@@ -1,0 +1,13 @@
+name = "Hamsters"
+filename = "hamsters-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sRzS8pFG/versions/mf7KQLz5/hamsters-1.0.2-fabric.jar"
+hash-format = "sha1"
+hash = "528b82f8dae77b92b2b45c634350ba8c070c0948"
+
+[update]
+[update.modrinth]
+mod-id = "sRzS8pFG"
+version = "mf7KQLz5"
