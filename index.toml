@@ -173,6 +173,11 @@ file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
 
 [[files]]
+file = "config/openloader/resources/stay-true.pw.toml"
+hash = "ba1b969c664e1365856a7b6a98485f524665fda5055f74006a9f0b7effd8b6c3"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/toms-create-storage.pw.toml"
 hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
 metafile = true
@@ -180,6 +185,11 @@ metafile = true
 [[files]]
 file = "config/spiceoffabric.hjson"
 hash = "22e34e7095718069332d007d123d415fc3fcfd284d2e82e98caa35fdbdc1e50c"
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -204,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
+file = "mods/beautified-chat-client.pw.toml"
+hash = "d4acf9f0c0dec4461d6426ed8df497e1b484016ce1fe8f96c2d6bb18e42c92e0"
 metafile = true
 
 [[files]]
@@ -466,11 +481,6 @@ hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
 metafile = true
 
 [[files]]
-file = "mods/keep-some-inventory.pw.toml"
-hash = "2e3912527d112c1d10bb5329bd8b5b0d1a888c4fa1981c053bd1fde48d772bd0"
-metafile = true
-
-[[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
 metafile = true
@@ -498,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7b91b06458f489848e52a6d0a239f2830d86d767978f6d3f69a4d0e7818bb827"
 metafile = true
 
 [[files]]
@@ -689,3 +704,7 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Stay_True_1.20.zip"
+hash = "b89dfdc784b8e0a07f258fcea8f8ea8221726d85cba142fc280cc81a6f353b9c"
