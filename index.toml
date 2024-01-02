@@ -207,11 +207,6 @@ hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
 metafile = true
 
 [[files]]
-file = "mods/beautified-chat-server.pw.toml"
-hash = "97e1c28a1242c963c93056ac2952fea5c863919471f2b4bb2f1d59819d37885c"
-metafile = true
-
-[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "1f8282011aff9b7dd11cf2568f85ee72635b7927d79b423aa38494d0733eac67"
 metafile = true
