@@ -173,11 +173,6 @@ file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
 
 [[files]]
-file = "config/openloader/resources/stay-true.pw.toml"
-hash = "ef5a1c3a7660f172e929129c9c9ad672f9872c3be932c23f807a5fe32c22f86a"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/toms-create-storage.pw.toml"
 hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
 metafile = true
@@ -516,6 +511,11 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
@@ -704,7 +704,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Stay_True_1.20.zip"
-hash = "b89dfdc784b8e0a07f258fcea8f8ea8221726d85cba142fc280cc81a6f353b9c"
