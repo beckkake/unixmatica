@@ -1,0 +1,13 @@
+name = "FiltPick"
+filename = "FiltPick-fabric-mc1.20-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SgWttYEe/versions/XGYX78O2/FiltPick-fabric-mc1.20-1.2.1.jar"
+hash-format = "sha1"
+hash = "0afdf8b81b3732f8f5c859920e16c56c04fd9a64"
+
+[update]
+[update.modrinth]
+mod-id = "SgWttYEe"
+version = "XGYX78O2"
