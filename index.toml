@@ -396,11 +396,6 @@ hash = "c8d5810420301ff7cdcf1039d672ad7dfb01a77edf219f2f8d5e3689dd9624d6"
 metafile = true
 
 [[files]]
-file = "mods/filtpick.pw.toml"
-hash = "b08b8db024cc7ff3cfa39af96d940c7255f80f8412396541cc2498d404f64edb"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
