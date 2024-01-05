@@ -182,6 +182,14 @@ file = "config/spiceoffabric.hjson"
 hash = "22e34e7095718069332d007d123d415fc3fcfd284d2e82e98caa35fdbdc1e50c"
 
 [[files]]
+file = "icon.png"
+hash = "1bfff5e14e15f0f11e79e41e4ccec11bc3736211f48c002168552dc7da40b3f7"
+
+[[files]]
+file = "mods/FiltPick-1.0.0.jar"
+hash = "0883a80ad6eaf1be39463f2fd2ba739cdf76e520491d7f65983e55f290afc80d"
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
