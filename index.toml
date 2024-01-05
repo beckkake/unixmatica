@@ -551,11 +551,6 @@ hash = "d8d167c69fa2b57d6ef71f1649da05ac7cbfbc9213b43aeb6e81ed9ffa49a114"
 metafile = true
 
 [[files]]
-file = "mods/respawning-animals.pw.toml"
-hash = "0d46203ce23a6c7002814e8e6b605d0848daf49e3a7e8ba436424f925556dd7c"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "da37a60329f2dce95e0563cebd12e6e47f262c6f376873034ff8c76955dc77da"
 metafile = true
