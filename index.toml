@@ -245,6 +245,11 @@ hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
+file = "mods/cfl.pw.toml"
+hash = "a580cc35a2b27bff3f8ab70edfd1ecffc051b212fae03c2d63a079f254285ca4"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
@@ -436,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
+metafile = true
+
+[[files]]
+file = "mods/go-fish.pw.toml"
+hash = "d47b36a229668694e6697a97d8fb2fa70fcf9d3f6dcc4f3ab6cddaf5c541fa83"
 metafile = true
 
 [[files]]

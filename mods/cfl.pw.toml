@@ -1,0 +1,13 @@
+name = "Colored Fishing Line"
+filename = "coloredfishingline-1.20-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HcHwkPSf/versions/3lpbgd3U/coloredfishingline-1.20-1.0.2.jar"
+hash-format = "sha1"
+hash = "6c67ac89f15c3f2f109fb44305206d8f5956bd2f"
+
+[update]
+[update.modrinth]
+mod-id = "HcHwkPSf"
+version = "3lpbgd3U"
