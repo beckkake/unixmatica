@@ -555,11 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-<<<<<<< HEAD
-hash = "aca7e4bd143814398f2d0381cb826e2b304e3b8acba7066c2877b34b86b529c3"
-=======
-hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
->>>>>>> 9ae3385 (Added Macaw's, (hopefully) fixed OPAC)
+hash = "b3d254a27fd7662a91a3b8ad81f2131913a229c38d1201c0ff02db4732a006fd"
 metafile = true
 
 [[files]]
@@ -569,11 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-<<<<<<< HEAD
-hash = "8a48f17604318d5aa3eaa4a436264e7ae4501368493672793e08a38cf2f2ca8c"
-=======
-hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
->>>>>>> 9ae3385 (Added Macaw's, (hopefully) fixed OPAC)
+hash = "487d3ff2800d46b29ebf637371e3ab12842da413a3d176875856fc86b2553c4e"
 metafile = true
 
 [[files]]
