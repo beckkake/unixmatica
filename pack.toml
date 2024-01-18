@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "5c50253eab8a4a46d5a81f8ea7d0422a6d86b5f8ab964daad3eee911c88c6893"
+=======
+hash = "1d70facc5ddf26df469e98f7975196ae8d04bc9e2d3ba78f2a88929c6c454915"
+>>>>>>> 9ae3385 (Added Macaw's, (hopefully) fixed OPAC)
 
 [versions]
 fabric = "0.15.2"

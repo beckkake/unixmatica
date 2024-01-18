@@ -514,6 +514,16 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "17abe74fad17a8ad23797548cd53f3ef1b1abbbf9133f03c1bac359f3939ff27"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "44d062aefc6e88fb5d2021376868b3c8dc525b2953af9101e8394d2a152be9bf"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -545,7 +555,11 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
+<<<<<<< HEAD
 hash = "aca7e4bd143814398f2d0381cb826e2b304e3b8acba7066c2877b34b86b529c3"
+=======
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+>>>>>>> 9ae3385 (Added Macaw's, (hopefully) fixed OPAC)
 metafile = true
 
 [[files]]
@@ -555,7 +569,11 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
+<<<<<<< HEAD
 hash = "8a48f17604318d5aa3eaa4a436264e7ae4501368493672793e08a38cf2f2ca8c"
+=======
+hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
+>>>>>>> 9ae3385 (Added Macaw's, (hopefully) fixed OPAC)
 metafile = true
 
 [[files]]
