@@ -1,0 +1,13 @@
+name = "Create Fabric Fixes"
+filename = "createfabricfixes-0.0.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZGaA9I33/versions/lz8hn7V5/createfabricfixes-0.0.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "13021d6b9961275dc4e8dd936b0ff0cbc24576ca"
+
+[update]
+[update.modrinth]
+mod-id = "ZGaA9I33"
+version = "lz8hn7V5"

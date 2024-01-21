@@ -285,8 +285,18 @@ hash = "5c8ea25c304ea7d269abf6d95d3933c889c111ec33c865bc5031f2ea69aed617"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-fixes.pw.toml"
+hash = "31a88453178a7829cdada6b3a5ff58b360cc0a8d7e4ebbbde593c9f05d675590"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "62d2a0578959ce2ed450891edc4877bd15716bd2aa9ac7d01d5001c9343d0df1"
 metafile = true
 
 [[files]]
