@@ -1,0 +1,13 @@
+name = "More Slabs Stairs & Walls"
+filename = "moreslabsstairsandwalls-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/W76nQ5GJ/moreslabsstairsandwalls-3.1.1.jar"
+hash-format = "sha1"
+hash = "1c07f682926fe40d287d4e12cfe20189274b32f7"
+
+[update]
+[update.modrinth]
+mod-id = "bdBzXqbS"
+version = "W76nQ5GJ"

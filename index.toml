@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -232,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/blossomtpa.pw.toml"
 hash = "e6702c94b6ac5ce552b91db8319b9075bd7ea1c74baab7987b8ad9fc51055b4d"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "f9481e8665c366e04a32b6acbabd5feeb950aadafb256831dbb0f26b5affa257"
 metafile = true
 
 [[files]]
@@ -546,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
+metafile = true
+
+[[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "5ca34825276c25cbbcf7647b3951f796ae16baec807485e6c479dd8c678caa0c"
 metafile = true
 
 [[files]]
