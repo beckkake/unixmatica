@@ -169,6 +169,10 @@ file = "config/openloader/data/anti ghast grief v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "9a59100f0589e74099c72c4c8c66e4eabc058f2d6c6600c55d2468b650cca8c5"
 
 [[files]]
+file = "config/openloader/data/create_chipped_cutting-15.zip"
+hash = "ef8be9df5d13f1baf53a1bfc4b512f788a0a6c19c0b643bd1b73c28fe8efeb0f"
+
+[[files]]
 file = "config/openloader/data/player head drops v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "f79ce770c2006f7d7d4798e2865dc2708a9d4be346eb505c2b56ab6a05a45619"
 
@@ -447,6 +451,10 @@ metafile = true
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "50b48bf9a5cacb53cfcd772de645cf41fd9e0bd561c2d1732750cefa478394a2"
 metafile = true
+
+[[files]]
+file = "mods/ftbbackups2-fabric-1.20-1.0.23.jar"
+hash = "d91f05d267b6b4a880984e9a4ba1567716431f266741e98b7903ef8c6f2420d5"
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
