@@ -169,6 +169,10 @@ file = "config/openloader/data/anti ghast grief v1.1.6 (MC 1.20-1.20.4).zip"
 hash = "9a59100f0589e74099c72c4c8c66e4eabc058f2d6c6600c55d2468b650cca8c5"
 
 [[files]]
+file = "config/openloader/data/create deco window fix.zip"
+hash = "f8011c9ec1b8e7fcb49b6ac025313f0282b0599e92df1383edf1bddf71292e1e"
+
+[[files]]
 file = "config/openloader/data/create_chipped_cutting-15.zip"
 hash = "ef8be9df5d13f1baf53a1bfc4b512f788a0a6c19c0b643bd1b73c28fe8efeb0f"
 
